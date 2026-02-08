@@ -1,4 +1,4 @@
-# **Credit Risk Model**<br>
+# **💳Credit Risk Model**<br>
 A machine learning–based Credit Risk Prediction system designed to assess the likelihood of loan default using historical financial and customer data.
 
 ## **🧠 Overview**<br>
